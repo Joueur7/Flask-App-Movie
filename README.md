@@ -1,4 +1,3 @@
-# Flask-App-Movie
 
 # First Step to migrate
 flask db init
@@ -15,3 +14,4 @@ movie = Movie(
 )
 db.session.add(movie)
 db.session.commit()
+
