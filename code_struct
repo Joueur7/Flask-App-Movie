@@ -1,0 +1,8 @@
+app/
+├── manager.py
+├── models/
+│   └── movie_model.py
+├── controllers/
+│   └── movie_controller.py
+└── handlers/
+    └── movie_handler.py
